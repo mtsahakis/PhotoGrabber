@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhotoGrabber</string>
+    <string name="no_image_available">No image available</string>
+</resources>
